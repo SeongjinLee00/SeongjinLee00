@@ -11,7 +11,7 @@ a.k.a powerseongjin
 
 
 #### SSAFY 7th (2022.01 ~ present)
-- Honors : 1학기 학업성취도 1등, 1학기 프로젝트 최우수상, 삼성  SW 역량테스트 A+ 취득
+- Honors : 1학기 학업성취도 1등, 1학기 프로젝트 최우수상, 삼성 모의 SW 역량테스트 A+ 취득
 
 <br>
 
