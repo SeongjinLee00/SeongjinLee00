@@ -52,12 +52,17 @@ a.k.a powerseongjin
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white"/>
 </div>
+
 <br>
 
 ## Baekjoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leecjs00)](https://solved.ac/leecjs00)
 
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjinLee00&count_private=true&show_icons=true&theme=dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongjinLee00&layout=compact&theme=dark)
+<br>
 
 
 <!--
