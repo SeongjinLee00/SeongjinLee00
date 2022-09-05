@@ -62,7 +62,7 @@ a.k.a powerseongjin
 <br>
 
 ## LeetCode
-![](https://leetcard.jacoblin.cool/powerseongjin?ext=heatmap)
+![](https://leetcard.jacoblin.cool/powerseongjin?ext=heatmap&theme=nord)
 
 <br>
 
