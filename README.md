@@ -62,7 +62,9 @@ a.k.a powerseongjin
 <br>
 
 ## LeetCode
-![](https://leetcard.jacoblin.cool/powerseongjin?ext=contest)
+![](https://leetcard.jacoblin.cool/powerseongjin?ext=heatmap)
+
+<br>
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjinLee00&count_private=true&show_icons=true&theme=dark)<br>
