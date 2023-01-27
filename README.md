@@ -15,6 +15,12 @@ a.k.a powerseongjin
 
 <br>
 
+## Careers
+#### Shinhan Bank (2023.01 ~ present)
+- Data Platform Team
+
+<br>
+
 ## Interests
 - Backend : Django, Spring, etc...
 
